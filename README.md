@@ -1,7 +1,7 @@
-# RAG - Legal Document Retrieval System
+# StartupLexAssist – AI Legal Assistant using RAG & LangChain
+StartupLexAssist is an AI-powered legal assistant designed to help startups, founders, and developers quickly understand and query Indian legal documents. The system uses Retrieval-Augmented Generation (RAG) with LangChain to provide accurate, context-aware answers grounded in official legal texts instead of generic LLM responses.
 
-A Retrieval-Augmented Generation (RAG) system designed for legal document processing and querying, utilizing FAISS vector database for efficient document retrieval.
-
+Unlike traditional chatbots, StartupLexAssist retrieves relevant sections from verified legal documents (such as the Indian Contract Act, Companies Act, and Startup-related regulations) and then generates precise answers using a Large Language Model. This ensures reliability, traceability, and reduced hallucinations, which are critical in legal applications.
 ## 📋 Project Overview
 
 This project implements an intelligent RAG pipeline for legal document analysis with advanced query processing capabilities:
